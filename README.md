@@ -4,7 +4,7 @@ Hi 👋 My name is Prince Adimado
 Web Developer and Databases enthusiast
 --------------------------------------
 
-I am a Web Developer. Who is currently learning to improve his skills. I'm a CS student and a Beta Microsoft Learn Student Ambassador (MLSA). I'm a community builder and I'm currently building MLSA on campus. I love technology and I believe that I'll be great at it one day. I'm interested in: - Web Development - Microsoft Azure - Microsoft Power Platform - Databases - Mobile App Development - Technical Writing
+I am a Web Developer. Who is currently learning to improve his skills. I'm a CS student and a Beta Microsoft Learn Student Ambassador (MLSA). I'm a community builder and I'm currently building MLSA on campus. I love technology and I believe that I'll be great at it one day. I'm interested in: - Web Development - Microsoft Azure - Microsoft Power Platform - Databases - Mobile App Development - Technical Writing.
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [primadoprincepa@gmail.com](mailto:primadoprincepa@gmail.com)

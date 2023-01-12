@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Adimado======================================================================================================================================Jnr. Web Developer and Microsoft 365 Development Enthusiast.------------------------------------------------------------Prince Adimado is interested in Backend Web Development using Python Django. He also loves to share his passion by hosting tech events as a Microsoft Learn Student Ambassador. He believes in the process and knows he'll be great at technology someday.* 🌍  I'm based in Tema, Ghana* 🖥️  See my portfolio at [Microsoft learn Student Ambassador Portfolio](http://primado-mlsa-site.netlify.com/)* ✉️  You can contact me at [https://linkedin.com/in/primado](mailto:https://linkedin.com/in/primado)* 🧠  I'm learning React JS, Tailwind CSS and SPFx* 🤝  I'm open to collaborating on React, Tailwind CSS and Django* ⚡  I love snack break
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Adimado
+======================================================================================================================================
+Jnr. Web Developer and Microsoft 365 Development Enthusiast.
+------------------------------------------------------------
+Prince Adimado is interested in Backend Web Development using Python Django. He also loves to share his passion by hosting tech events as a Microsoft Learn Student Ambassador. He believes in the process and knows he'll be great at technology someday.
+* 🌍  I'm based in Tema, Ghana
+* 🖥️  See my portfolio at [Microsoft learn Student Ambassador Portfolio](http://primado-mlsa-site.netlify.com/)
+* ✉️  You can contact me at [https://linkedin.com/in/primado](mailto:https://linkedin.com/in/primado)
+* 🧠  I'm learning React JS, Tailwind CSS and SPFx
+* 🤝  I'm open to collaborating on React, Tailwind CSS and Django
+* ⚡  I love snack break
 
 ### Skills
 
@@ -12,6 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/primado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=primado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/primado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=primado&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/primado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=primado&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/primado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=primado&bg_color=1e3a8a&color=ffffff&line=0891b2&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

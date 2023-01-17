@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Adimado
 ======================================================================================================================================
-Jnr. Web Developer and Microsoft Power Platform.
+Jnr. Web Developer and Microsoft Power Platform Enthusiast.
 ------------------------------------------------------------
 Prince Adimado is interested in Backend Web Development using Python Django. He also loves to share his passion by hosting tech events as a Microsoft Learn Student Ambassador. He believes in the process and knows he'll be great at technology someday.
 * 🌍  I'm based in Tema, Ghana

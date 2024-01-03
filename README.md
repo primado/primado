@@ -1,10 +1,10 @@
 Hi 👋 My name is Prince Adimado
 ===============================
 
-Software Developer focusing on Frontend and Power Platform Development
-----------------------------------------------------------------------
+Software Developer focusing on Frontend web and Power Platform Development
+--------------------------------------------------------------------------
 
-I'm a dedicated Software Developer with 3 years of experience. I have a keen eye for responsive Web Applications and love to collaborate with UI/UX Developers to create good UIs, so that I transslate it to production code.
+I'm a dedicated Software Developer with 3 years of experience. I have a keen eye for responsive Web Applications and love to collaborate with UI/UX Developers to create good UIs, so that I translate it to production code.
 
 * 🌍  I'm based in Tema, Ghana
 * 🖥️  See my portfolio at [My Portfolio Website](http://prince-adimado.vercel.app/)

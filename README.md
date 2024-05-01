@@ -10,6 +10,7 @@ I'm a dedicated Software Developer with 3 years of experience. I have a keen eye
 * 🖥️  See my portfolio at [My Portfolio Website](http://prince-adimado.vercel.app/)
 * ✉️  You can contact me at [http://linkedin.com/in/primado/](mailto:http://linkedin.com/in/primado/)
 * 🧠  I'm learning Building my skill set API Integration and State Management with in Next.js
+* 🧠  developing my skills in Django, by building APIs using Django Rest Framework
 * 🤝  I'm open to collaborating on React with Next.js
 * ⚡  I love snacks
 

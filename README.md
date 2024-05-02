@@ -1,7 +1,7 @@
 Hi 👋 My name is Prince Adimado
 ===============================
 
-Software Developer focusing on Frontend web and Power Platform Development
+Software Developer 
 --------------------------------------------------------------------------
 
 I'm a dedicated Software Developer with 3 years of experience. I have a keen eye for responsive Web Applications and love to collaborate with UI/UX Developers to create good UIs, so that I translate it to production code.

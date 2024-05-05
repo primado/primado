@@ -4,12 +4,12 @@ Hi 👋 My name is Prince Adimado
 Software Developer 
 --------------------------------------------------------------------------
 
-I'm a dedicated Software Developer with 3 years of experience. I have a keen eye for responsive Web Applications and love to collaborate with UI/UX Developers to create good UIs, so that I translate it to production code.
+I'm a dedicated Software Developer with 3 years of experience. I have a keen eye for responsive Web Applications and love collaborating with UI/UX Developers to create good UIs, so I translate them into production code.
 
 * 🌍  I'm based in Tema, Ghana
 * 🖥️  See my portfolio at [My Portfolio Website](http://prince-adimado.vercel.app/)
 * ✉️  You can contact me at [http://linkedin.com/in/primado/](mailto:http://linkedin.com/in/primado/)
-* 🧠  I'm learning Building my skill set API Integration and State Management with in Next.js
+* 🧠  I'm learning to build my skill set in API Integration and State Management within Next.js
 * 🧠  developing my skills in Django, by building APIs using Django Rest Framework
 * 🤝  I'm open to collaborating on React with Next.js
 * ⚡  I love snacks

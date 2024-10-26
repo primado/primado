@@ -9,9 +9,8 @@ I'm a dedicated Software Developer with 3 years of experience. I have a keen eye
 * 🌍  I'm based in Tema, Ghana
 * 🖥️  See my portfolio at [My Portfolio Website](http://prince-adimado.vercel.app/)
 * ✉️  You can contact me at [http://linkedin.com/in/primado/](mailto:http://linkedin.com/in/primado/)
-* 🧠  I'm learning to build my skill set in API Integration and State Management within Next.js
-* 🧠  developing my skills in Django, by building APIs using Django Rest Framework
-* 🤝  I'm open to collaborating on React with Next.js
+* 🧠  Exploring and building projects.
+* 🤝  I'm open to collaborating on React with Next.js and Django projects.
 * ⚡  I love snacks
 
 ### Skills
